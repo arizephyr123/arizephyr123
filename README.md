@@ -1,4 +1,4 @@
-## Hey, I'm [Ari!](https://github.com/arizephy123) !!
+## Hi, I'm [Ari!](https://github.com/arizephyr123) !!
 
 </h2>
 
