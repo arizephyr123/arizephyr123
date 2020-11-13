@@ -1,4 +1,4 @@
-## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Ari!](https://github.com/arizephy123) !!
+## Hey, I'm [Ari!](https://github.com/arizephy123) !!
 
 </h2>
 
@@ -6,20 +6,12 @@
 
 ## About Me
 
-Hey My Name is Parth Patel, I'm a 3rd year ICT student at Ahmedabad University.I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
+I am a full-stack web developer with a particular interest in front-end development and UX Design. I am a late-bloomer to coding but the more I learn, the more I love it! 
 
+I have a background in ecology, the dental field, and early childhood education and enrichment. If I’m not programming, I’m likely gardening, at the beach with my family or doing dishes. 
 
-## Coding Profiles
+My varied background and drive to always be learning gives me a valuable perspective in building websites that matter. If you’d like to know more, feel free to get in touch.
 
-<a href="https://www.codechef.com/users/night_king_">
-  <img  alt="Parth's Codechef Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-
-<a href="https://codeforces.com/profile/night_king_">
-  <img  alt="Parth's Codeforces Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-</a>
-
-<hr/>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -90,6 +82,8 @@ Hey My Name is Parth Patel, I'm a 3rd year ICT student at Ahmedabad University.I
 ✨ Where you can find me ✨
 
   <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
+  
+  <!--  Patel-blue&?style=social&logo=linkedin -->
 
   <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
 
@@ -101,7 +95,7 @@ Hey My Name is Parth Patel, I'm a 3rd year ICT student at Ahmedabad University.I
 
 <p align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/parth-patel-313a40198/">
+  <a href="https://www.linkedin.com/in/arielle-hollingsworth/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
 
@@ -110,19 +104,7 @@ Hey My Name is Parth Patel, I'm a 3rd year ICT student at Ahmedabad University.I
   </a>
 
 
-  <br/>
-  <a href="https://www.facebook.com/profile.php?id=100026103873514">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
-  </a>
-
-  <a href="https://www.instagram.com/parth._.27/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
-  </a>
-
-  <a href="https://twitter.com/parthpatel_27">
-    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
-  </a>
-</p>
+  
 </h1>
 
 <div align = "center">
