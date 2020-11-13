@@ -6,12 +6,7 @@
 
 ## About Me
 
-I am a full-stack web developer with a particular interest in front-end development and UX Design. I am a late-bloomer to coding but the more I learn, the more I love it! 
-
-I have a background in ecology, the dental field, and early childhood education and enrichment. If I’m not programming, I’m likely gardening, at the beach with my family or doing dishes. 
-
-My varied background and drive to always be learning gives me a valuable perspective in building websites that matter. If you’d like to know more, feel free to get in touch.
-
+I am a full-stack web developer with a particular interest in front-end development and UX Design. I am a late-bloomer to coding but the more I learn, the more I love it! If I’m not at my computer, I’m likely gardening, at the beach with my family or doing dishes.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -102,17 +97,3 @@ My varied background and drive to always be learning gives me a valuable perspec
   <a href="https://github.com/parth-27">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
-
-
-  
-</h1>
-
-<div align = "center">
-
-![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=parth-27&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
-
-<hr>
-
-</div>
-
-<h3>Thanks for Stopping by!! 😊</h3>
