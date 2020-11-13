@@ -2,8 +2,6 @@
 
 </h2>
 
-<hr/>
-
 ## About Me
 
 I am a full-stack web developer with a particular interest in front-end development and UX Design. I am a late-bloomer to coding but the more I learn, the more I love it! If I’m not at my computer, I’m likely gardening, at the beach with my family or doing dishes.
