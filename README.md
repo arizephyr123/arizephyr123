@@ -79,7 +79,7 @@ I am a full-stack web developer with a particular interest in front-end developm
   <a href="https://www.linkedin.com/in/arielle-hollingsworth/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
-
-  <a href="https://github.com/arizephy123">
-    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
-  </a>
+  
+  <a href="https://resume.io/r/Pjv0o4Hlb">
+    <img src="https://img.shields.io/badge/-Resume-yellow?&style=flat-square">
+  </a
