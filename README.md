@@ -1,4 +1,4 @@
-## Hi, I'm [Ari!](https://github.com/arizephyr123) !!
+## Hi, I'm [Ari!](www.linkedin.com/in/arielle-hollingsworth) !!
 
 </h2>
 
