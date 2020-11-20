@@ -1,6 +1,5 @@
-## Hi, I'm [Ari!](www.linkedin.com/in/arielle-hollingsworth) !!
+## Hi, I'm [Ari!](http://www.linkedin.com/in/arielle-hollingsworth) !!
 
-</h2>
 
 ## About Me
 
