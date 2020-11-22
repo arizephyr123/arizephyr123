@@ -1,9 +1,21 @@
 ## Hi, I'm [Ari!](http://www.linkedin.com/in/arielle-hollingsworth) !!
 
+ 
+
 
 ## About Me
 
 I am a full-stack web developer with a particular interest in front-end development and UX Design. I am a late-bloomer to coding but the more I learn, the more I love it! If I’m not at my computer, I’m likely gardening, at the beach with my family or doing dishes.
+<p>
+ <a href="https://www.linkedin.com/in/arielle-hollingsworth/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://resume.io/r/Pjv0o4Hlb">
+    <img src="https://img.shields.io/badge/-Resume-yellow?&style=flat-square">
+  </a
+  </p>
+
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -48,15 +60,4 @@ I am a full-stack web developer with a particular interest in front-end developm
 </table>
 <hr>
 
-<h1 align="center">
-✨ Where you can find me ✨
 
-<p align="center">
-  <br/>
-  <a href="https://www.linkedin.com/in/arielle-hollingsworth/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="https://resume.io/r/Pjv0o4Hlb">
-    <img src="https://img.shields.io/badge/-Resume-yellow?&style=flat-square">
-  </a
