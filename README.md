@@ -1,4 +1,4 @@
-## Hi, I'm [Ari!](http://www.linkedin.com/in/arielle-hollingsworth) !!
+## Hi, I'm [Ari](http://www.linkedin.com/in/arielle-hollingsworth) !!
 
  
 
