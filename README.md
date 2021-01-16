@@ -11,7 +11,7 @@ I am a full-stack web developer with a particular interest in front-end developm
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="https://drive.google.com/file/d/1eHdgu39TIaQx6QAbYwYi9HiZHbcwSG5Q/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1EOzeGh8O19mDNUfJdWJN1SUVQqX1RPUk/view?usp=sharing">
     <img src="https://img.shields.io/badge/-Resume-yellow?&style=flat-square">
   </a
   </p>
