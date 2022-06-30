@@ -5,7 +5,7 @@
 
 ## About Me
 
-I am a full-stack web developer with a particular interest in front-end development and UX design. I am a late-bloomer to coding but the more I learn, the more I love it! If I’m not at my computer, I’m likely gardening, at the beach with my family or doing dishes.
+I am a full-stack web developer with a particular interest in front-end development and UX design. I am a late-bloomer to coding but the more I learn, the more I love it! If I’m not at my computer, I’m likely gardening or doing dishes.
 <p>
  <a href="https://www.linkedin.com/in/arielle-hollingsworth/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
